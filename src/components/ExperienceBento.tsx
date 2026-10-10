@@ -33,7 +33,7 @@ export const ExperienceBento: React.FC<ExperienceBentoProps> = ({ lang }) => {
           <div className="md:col-span-12 lg:col-span-8 bg-[#121518] border border-white/10 rounded-sm overflow-hidden group flex flex-col justify-between">
             <div className="relative aspect-[16/9] w-full overflow-hidden">
               <img
-                src="/src/assets/images/luxury_yurt_camp_1791469957136.jpg"
+                src="/images/luxury_yurt_camp_1791469957136.jpg"
                 alt="Юртовый лагерь на Сон-Куле под Млечным Путем"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
@@ -77,7 +77,7 @@ export const ExperienceBento: React.FC<ExperienceBentoProps> = ({ lang }) => {
           <div className="md:col-span-12 lg:col-span-4 bg-[#121518] border border-white/10 rounded-sm overflow-hidden group flex flex-col justify-between">
             <div className="relative aspect-[4/3] w-full overflow-hidden">
               <img
-                src="/src/assets/images/mountain_pass_ride_1791469975063.jpg"
+                src="/images/mountain_pass_ride_1791469975063.jpg"
                 alt="Кыргызские кони на горном перевале"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
@@ -115,7 +115,7 @@ export const ExperienceBento: React.FC<ExperienceBentoProps> = ({ lang }) => {
           <div className="md:col-span-12 lg:col-span-5 bg-[#121518] border border-white/10 rounded-sm overflow-hidden group flex flex-col justify-between">
             <div className="relative aspect-[4/3] w-full overflow-hidden">
               <img
-                src="/src/assets/images/nomadic_hospitality_tea_1791469991500.jpg"
+                src="/images/nomadic_hospitality_tea_1791469991500.jpg"
                 alt="Чайная церемония и кочевая гастрономия"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"

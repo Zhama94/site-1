@@ -13,7 +13,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreRoutes, onOpenCalculator, l
       {/* Background Hero Photography */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_sonkul_riders_1791469936703.jpg"
+          src="/images/hero_sonkul_riders_1791469936703.jpg"
           alt="Конная экспедиция на озере Сон-Куль в Кыргызстане"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-center scale-105 transition-transform duration-1000 ease-out"

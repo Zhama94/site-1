@@ -401,7 +401,7 @@ export const VirtualCampExperience: React.FC<VirtualCampExperienceProps> = ({
             {[0, 1, 2].map((idx) => (
               <div key={idx} className="relative w-1/3 h-full shrink-0 overflow-hidden">
                 <img
-                  src="/src/assets/images/yurt_interior_panorama_1791472866796.jpg"
+                  src="/images/yurt_interior_panorama_1791472866796.jpg"
                   alt="Интерьер юрты 360"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover pointer-events-none"
